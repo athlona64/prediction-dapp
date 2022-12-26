@@ -462,4 +462,4 @@ export const abi = [
       "type": "receive"
     }
   ];
-export const RANDOM_GAME_NFT_CONTRACT_ADDRESS ="0xe4D9982B373B01cb72624c0E254f435a983b40D5";
+export const RANDOM_GAME_NFT_CONTRACT_ADDRESS ="0xf40a6F0F50f07430e52015479038Ac35ffBa9212";
